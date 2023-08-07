@@ -18,6 +18,6 @@ Insert the file into your ROBLOX Workspace, and follow my instructions.
 1. Copy your ROBLOX Group ID into the part that says "local groupID = 1"
 2. Put your GamePass in the part that says "local gamePassId = 1"
 3. And for whoever you want to get the Rainbow effect for free, put their username in the part that says "local Owners = {""}"
-(Feel free to change the fonts!)
+(Feel free to change the fonts and colors to fit your theme!)
 
 Thanks for using my product, and goodbye for now! (I will try to update this as much as possible)
